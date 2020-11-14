@@ -1,6 +1,6 @@
-github.com/prantlf/go-multipart-composer v1.0.0 h1:vnuWzPKMT+7AUhhVMAV5bSq8/X1w4S8ZQlmKO2IcxQU=
-github.com/prantlf/go-multipart-composer v1.0.0/go.mod h1:iFGtDbH/7oXORCJMlXgpGKY2t1wTA2g5qOfhOeBXD3w=
-github.com/prantlf/go-multipart-helpers v1.0.1 h1:1UtETo/36w9WZfpGoq7LxQDMGtD1F4L5f58lpt4ou+4=
-github.com/prantlf/go-multipart-helpers v1.0.1/go.mod h1:AXz16akAx5A3AKlLVuVv7TfSM2lEZX8xiA/2/MFlwWo=
+github.com/prantlf/go-multipart-composer v1.0.4 h1:mzv6CnRRysKg/Ppy5LHtIKFJzL2DDIlVvQ7XXJgNjjY=
+github.com/prantlf/go-multipart-composer v1.0.4/go.mod h1:iFGtDbH/7oXORCJMlXgpGKY2t1wTA2g5qOfhOeBXD3w=
+github.com/prantlf/go-multipart-helpers v1.0.2 h1:U1Dv3theDjKtZf0qKBFFeoGclCb12Z0dmdRj/fq6XnE=
+github.com/prantlf/go-multipart-helpers v1.0.2/go.mod h1:AXz16akAx5A3AKlLVuVv7TfSM2lEZX8xiA/2/MFlwWo=
 github.com/prantlf/go-sizeio v1.0.1 h1:tW7EmQYXjg18nXnq/glFnPJPNBwvz5+KG1WSgbThaA0=
 github.com/prantlf/go-sizeio v1.0.1/go.mod h1:clPUBkWIIgcJvYdaL/bROeyZwfP9jehD80zcIx3Ddco=
